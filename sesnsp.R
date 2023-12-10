@@ -1,6 +1,6 @@
 ### Preparacion de datos de incidencia delictiva para TPR
 ### fuente: https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva?state=published
-setwd('C:/Users/baldenebro/OneDrive - International Labour Office/EssentialFiles/VZF_SST/Datos_TPR')
+setwd('###')
 setwd(paste0(getwd(),'/SESNSP/2309'))
 
 paquetes <- c('magrittr','tidyr','stringr','dplyr','plotly')
